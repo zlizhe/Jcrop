@@ -88,6 +88,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
 
 </form>
 <link rel="stylesheet" href="/css/jquery.Jcrop.css" type="text/css" />
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="/js/jquery.Jcrop.js"></script>
 <style>
 #dialog{
